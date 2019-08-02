@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-source "http://gems.github.com"
+#source "http://gems.github.com"
 gem 'rspec'
 gem 'sinatra', '1.4.4'
 gem 'hashie'
